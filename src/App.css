@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+#container{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
+#canvas1{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+}
+
+#audio1{
+  width: 50%;
+  margin: 50px auto;
+  display: block;
+
+} 
+
+
+#button1{
+  position: relative;
+  width: 20%;
+  height: 50%;
+  margin: 200px auto;
+  display: block;
+  background-color: white; 
+}
+
+#filleupload{
+  position: absolute;
+  top: 150px;
+  color: white;
+  
+}
